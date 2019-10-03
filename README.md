@@ -40,3 +40,37 @@ Cabecera 2
 #####Cabecera 5
 ~~~
 Cabe mencionar que usar ***===*** para títulos y ***---*** para subtítulos es igual a usar ***#*** y ***##***, respectivamente.
+
+**Formato**
+El formato básico del texto, es decir negritas y cursiva, se pueden realizar de varias maneras:
+
++ Negrita
+Se lo realiza con dos asteriscos (**) al inicio de la palabra o frase y con dos asteriscos al final (**). También funciona con dos guíones bajos (__)
+
++ Cursiva 
+
+Se lo realiza con un asterisco (*) al inicio de la palabra o frase y con un asteriscos al final (*). También funciona con un guíon bajo (_)
+
++ Negrita y Cursiva
+
+Se lo realiza con tres asteriscos (***) al inicio de la palabra o frase y con tres asteriscos al final (***). También funciona con tres guíones bajos (___)
+
+***Se pueden emplear indistintamente tanto el asterisco * como el guión bajo _ siempre y cuando no se mezclen y lo que determina el formato es el número de ellos antes y después del bloque de texto a formatear***
+
+**Citas**
+
+Para crear bloques de cita, se emplea el carácter mayor que > antes del bloque de texto. 
+
+**Listas**
+
+Para crear listas enumeradas se coloca el número y un punto seguido de la palabra o frase
+
+1. Listas enumeradas
+2. Listas con viñetas
+
+Listas usando viñetas podemos colocar (+, -, *) seguido igualmente de la palabra o frase
+
++ Listas enumeradas
++ Listas con viñetas
+
+
