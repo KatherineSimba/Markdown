@@ -6,6 +6,9 @@ Markdown es un formato de enmarcación de texto, que permite crear texto con for
 
 Es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano. Se distribuye bajo licencia BSD y se distribuye como plugin (o al menos está disponible) en diferentes sistemas de gestión de contenidos (CMS). Markdown convierte el texto marcado en documentos XHTML utilizando html2text creado por Aaron Swartz. Markdown fue implementado originariamente en Perl por Gruber, pero desde entonces ha sido traducido a multitud de lenguajes de programación, incluyendo PHP, Python, Ruby, Java y Common Lisp.
 
+El objetivo principal del diseño de la sintaxis de formato de Markdown es hacerlo lo más legible posible. La idea es que un documento con formato Markdown debe publicarse tal cual, como texto sin formato, sin parecer que ha sido marcado con etiquetas o instrucciones de formato.
+
+En principio, fue pensado para elaborar textos cuyo destino iba a ser la web con más rapidez y sencillez que si estuviésemos empleando directamente HTML. Y si bien ese suele ser el mejor uso que podemos darle, también podemos emplearlo para cualquier tipo de texto, independientemente de cual vaya a ser su destino.
 
 # ¿Para qué se usa Markdown?
 Algunas de las opciones con las que te será más fácil la vida usando Markdown:
